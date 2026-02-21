@@ -3,7 +3,6 @@ import { Navbar } from './components/Navbar';
 import { HeroSection } from './components/HeroSection';
 import { AboutSection } from './components/AboutSection';
 import { SkillsSection } from './components/SkillsSection';
-import { ProjectsSection } from './components/ProjectsSection';
 import { AIChatSection } from './components/AIChatSection';
 import { ResumeSection } from './components/ResumeSection';
 import { ContactSection } from './components/ContactSection';
@@ -14,12 +13,11 @@ export default function App() {
     <div className="dark min-h-screen bg-[#0a0a1a] text-white font-['Inter',sans-serif] relative overflow-x-hidden">
       <BackgroundAnimation />
       <Navbar />
-      
+
       <main className="relative z-10">
         <HeroSection />
         <AboutSection />
         <SkillsSection />
-        <ProjectsSection />
         <AIChatSection />
         <ResumeSection />
         <ContactSection />

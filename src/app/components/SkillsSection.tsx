@@ -1,11 +1,12 @@
-import { 
-  Code2, 
-  Database, 
-  Brain, 
-  GitBranch, 
+import {
+  Code2,
+  Database,
+  Brain,
+  GitBranch,
   Layers,
   Zap,
-  FileJson
+  FileJson,
+  Terminal
 } from 'lucide-react';
 
 const skills = [
@@ -50,6 +51,12 @@ const skills = [
     icon: GitBranch,
     color: 'from-gray-400 to-gray-600',
     description: 'Version control'
+  },
+  {
+    name: 'C++ & Java',
+    icon: Terminal,
+    color: 'from-red-400 to-orange-500',
+    description: 'System & OOP programming'
   },
 ];
 

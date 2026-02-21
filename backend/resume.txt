@@ -1,0 +1,51 @@
+Name: Ekansh Mishra
+Location: Ujjain, Madhya Pradesh, India
+Email: mishrakrishna893@gmail.com
+Phone: +91 7527996150
+Profile: BTech Computer Science student, aspiring Software Developer and ML enthusiast, Student Leader.
+
+Education:
+- Class X (10th) — PSEB | Mata Mohan Dai Oswal Public School | Score: 100% (PERFECT SCORE)
+- Class XII (12th) — PSEB (Science) | Mata Mohan Dai Oswal Public School | May 2023 | Score: 80% | Principal's List | Workshop Participant
+- BTech — Computer Science | Currently Pursuing | Focus: AI & Software Development
+
+Skills:
+- Web Development: HTML, CSS, TypeScript, JavaScript, React, Node.js, MERN Stack, Google Cloud Platform (GCP)
+- Programming & AI/ML: Python, C++, Java, Machine Learning, Deep Learning, Neural Networks, LLM, NLP
+
+Projects:
+- AI Portfolio Website with AI Chat (React, TypeScript, FastAPI, Gemini AI) — Dynamic portfolio with AI assistant answering questions based on resume data. Real-time chat UI and PDF resume download.
+- Full-Stack Web Applications (MERN) — MongoDB, Express, React, Node.js. Production-ready full-stack apps with REST APIs and responsive UI.
+- Machine Learning Projects — Python, TensorFlow, scikit-learn, NLP. Classification, neural networks, and NLP models.
+
+Certifications:
+- C++ Programming — PW Skills
+- Java — PW Skills
+- Event Organizing & Hosting
+- International Event Organization
+
+Achievements & Leadership:
+Academic:
+- School Rank #1 — 10 Times
+- Best Student Award
+- Science Competition Award
+- 15+ Academic & Sports Awards
+- Class X: Perfect Score 100%
+- Class XII: 80%, Principal's List
+
+Leadership:
+- President, Student Council — 2 Terms
+- International Event Organizer
+- Captain, School Band Team
+
+Sports:
+- Best Athlete Award
+- State Level Basketball Player
+- State Level Athlete — Sprint & Jump
+
+Languages:
+- English, Hindi, Punjabi — C2 (Mastery)
+- German — B1 (Intermediate)
+
+Career Goal:
+Seeking internship in Software Development, AI, or Machine Learning.
