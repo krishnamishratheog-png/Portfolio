@@ -1,10 +1,11 @@
 services:
   - type: web
-    name: ekansh-portfolio-chat-api
+    name: ekansh-portfolio-backend
     runtime: python
     rootDir: backend
     buildCommand: pip install -r requirements.txt
-    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    startCommand: uvicorn main:app --host 0.0.0.0 --port 10000
     envVars:
-      - key: OPENROUTER_API_KEY
-        sync: false # Set this manually in Render dashboard
+      - key: GEMINI_API_KEY
+        sync: false
+    plan: free
